@@ -2,20 +2,20 @@
 ============================================================================================
 [+]Welcome to Uns3cure brute force login, this tool has been created for PoC purposes only 
 by proving weak credentials on bussineses web services using a wordlist or list of sql-payloads.
+===============================================================================================
 '
 
 ![HOWTO](https://github.com/jdmg412/Uns3cure-Tools/blob/main/brute-tool/howto-BruteTool.JPG?raw=true)
 
-'
 ===============
     USAGE
 
-#[+]First we need to install the requirements
+#[+]First we need to install the requirements\n
 pip install -r requirements.txt 
 
 
 #[+]In order to use this tool once executed you need to provide a url, 
-#(try with the one that is used for POST on the requests found under the inspect mode of your browser) in the following format:
+#(try with the one that is used for POST on the requests found under the inspect mode of your browser) in the following format:\n
 https://example.com/login.php
 
 
