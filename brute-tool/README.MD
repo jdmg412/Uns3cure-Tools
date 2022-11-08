@@ -2,7 +2,7 @@
 
 # Uns3cure brute force login
 
-this tool has been created for PoC purposes only, by proving weak credentials on any bussines web services using a wordlist or list of sql-payloads.
+This tool has been created for PoC purposes only, by proving weak credentials on any bussines web services using a wordlist or list of sql-payloads.
 
 '
 
