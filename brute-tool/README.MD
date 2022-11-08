@@ -39,13 +39,13 @@ username
 ```
 
 Provide the field name that is use for the password durning the POST request 
-- find it where you found de user field values)
+- Find it where you found de user field values)
 
 ```bash
 password
 ```
 
-In case there's more field values for de POST requests than default you might need to change de payload values in brute-tool.py
+In case there's more field values for the POST requests than default you might need to change de payload values in brute-tool.py
 
 ```python
 payload = {'<field>':'<value>', ufield:user, pfield:line}
