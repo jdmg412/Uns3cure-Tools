@@ -4,7 +4,7 @@ This tool has been created for PoC purposes only, by finding any hidden comment 
 
 '
 
-![HOWTO](https://github.com/jdmg412/Uns3cure-Tools/blob/main/brute-tool/howto-BruteTool.JPG?raw=true)
+![HOWTO](https://raw.githubusercontent.com/jdmg412/Uns3cure-Tools/main/web-scrapper/usage-scrape.png)
 
 
 ## USAGE
