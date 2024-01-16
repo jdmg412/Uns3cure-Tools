@@ -5,7 +5,7 @@ This tool has been created to automate information gathering process on vlan usa
 
 '
 
-![HOWTO](https://github.com/jdmg412/Uns3cure-Tools/blob/main/brute-tool/howto-BruteTool.JPG?raw=true)
+![HOWTO](https://github.com/jdmg412/Uns3cure-Tools/blob/main/Vlan-Usage-Report/vlan-report-view.jpg?raw=true)
 
 
 ## USAGE
