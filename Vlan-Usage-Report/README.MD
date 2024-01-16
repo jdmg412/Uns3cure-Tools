@@ -34,9 +34,6 @@ python vlan-report.py
 
 - Finally an xlsx file will be created with all the information you need to report.
 
-```bash
-username
-```
 
 
 
